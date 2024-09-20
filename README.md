@@ -1,4 +1,5 @@
 # Wander-Atlan Personalized Travel Itinerary
+[Deployed Vercel Link](https://travel-itinerary-flax.vercel.app/)
 ## Overview
 Wander-Atlan is a cutting-edge travel planning application that offers a personalized and flexible itinerary generation experience. Leveraging advanced technologies, user-centric design, and AI-driven recommendations, Wander-Atlan makes travel planning seamless and enjoyable.
 ![Example Image](./at2.png)
