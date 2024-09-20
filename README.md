@@ -1,6 +1,9 @@
 # Wander-Atlan Personalized Travel Itinerary
 ## Overview
 Wander-Atlan is a cutting-edge travel planning application that offers a personalized and flexible itinerary generation experience. Leveraging advanced technologies, user-centric design, and AI-driven recommendations, Wander-Atlan makes travel planning seamless and enjoyable.
+![Example Image](./at2.png)
+![Example Image](./at3.png)
+
 
 ## Key Features
 1. User Authentication: Secure sign-in options using Clerk, supporting Google and GitHub accounts.
@@ -13,10 +16,14 @@ Wander-Atlan is a cutting-edge travel planning application that offers a persona
 - Framework: Built with React.js and Next.js for a modern web experience.
 - Styling: Utilizes TailwindCSS for a responsive and sleek design.
 - State Management: Efficiently managed with React hooks.
+![Example Image](./at4.png)
+
 ### Backend
 - Serverless Backend: Powered by Convex, managing data flow and API interactions.
 - AI Integration: Communicates with OpenAI’s GPT-3.5 for itinerary generation.
 - API Management: Handles requests to Google Maps and Unsplash seamlessly.
+![Example Image](./at1.png)
+
 ### User Experience
 - Sign In: Users log in via Clerk using their Google or GitHub accounts.
 - Input Trip Details: Users enter destination, travel dates, and preferred activities.
