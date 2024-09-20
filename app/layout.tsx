@@ -12,28 +12,28 @@ import "./globals.css";
 const inter = Montserrat_Alternates({weight: "500", subsets: ["cyrillic"]});
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.travelplannerai.online"),
+  metadataBase: new URL("https://travel-itinerary-flax.vercel.app/"),
   title: {
-    default: "Travel Planner AI - Your Smart Travel Planner",
-    template: "%s | Travel Planner AI - Your Smart Travel Planner",
+    default: "wanderAtlan  - Your Smart Travel Planner",
+    template: "%s | wanderAtlan AI - Your Smart Travel Planner",
   },
   description:
-    "Travel Planner AI provides intelligent travel suggestions, personalized itineraries, and seamless trip planning. Plan your perfect trip with ease.",
+    "wanderAtlan provides intelligent travel suggestions, personalized itineraries, and seamless trip planning. Plan your perfect trip with ease.",
   keywords:
-    "travel planner, AI travel planner, smart travel, travel suggestions, destination insights, personalized itineraries, trip planning, travel tips, vacation planning",
+    "wanderAtlan, AI travel planner, smart travel, travel suggestions, destination insights, personalized itineraries, trip planning, travel tips, vacation planning",
   openGraph: {
-    title: "Travel Planner AI - Your Smart Travel Planner",
+    title: "wanderAtlan  - Your Smart Travel Planner",
     description:
-      "Travel Planner AI provides intelligent travel suggestions, personalized itineraries, and seamless trip planning. Plan your perfect trip with ease.",
-    url: "https://www.travelplannerai.online",
+      "wanderAtlan provides intelligent travel suggestions, personalized itineraries, and seamless trip planning. Plan your perfect trip with ease.",
+    url: "https://travel-itinerary-flax.vercel.app/",
     type: "website",
-    siteName: "TravelPlannerAI",
+    siteName: "wanderAtlan",
     images: [
       {
         url: "opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "Travel Planner AI",
+        alt: "wanderAtlan",
       },
     ],
   },
